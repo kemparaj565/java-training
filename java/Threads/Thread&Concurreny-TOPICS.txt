@@ -1,0 +1,65 @@
+Topics -
+
+1. Multi-Threading
+2. Concurrency
+3. Thread Pools
+4. Thread Schedulers
+5. Time Slicing (basic idea)
+====================================
+Multi-Threading --->
+1. Understanding of Process vs Threads ( internals ) - https://www.youtube.com/watch?v=YL-W2IDxIBQ
+2. Issues in Threads
+3. Creating Threads 
+4. Interthread communication - join, wait, notify, notifyall
+5. Lifecycle of a thread
+6. Thread Dump & Analysis - Local , Group
+7. Deadlock - program to create 
+8. Producer - consumer problem
+9. Context Switching
+10. yield() , Thread Priority, volatile
+11. Semaphores
+12. Different Types of Lock - Re-entrantLock, CountdownLatch
+13. race around condition
+14. fork & join framework
+
+=======================================
+Concurrency - 
+JAVA concurrency API-- >
+Executor
+ExecutorService
+ScheduledExecutorService
+Future
+CountDownLatch
+CyclicBarrier
+Semaphore
+ThreadFactory
+BlockingQueue
+DelayQueue
+Locks
+Phaser
+Callable
+FutureTask
+What is atomic operation? What are atomic classes in Java Concurrency API?
+What is Lock interface in Java Concurrency API? What are it’s benefits over synchronization?
+What is Executors Framework?
+What is BlockingQueue? How can we implement Producer-Consumer problem using Blocking Queue?
+=====================================================
+Thread Pools - how do we create 
+Thread Schedulers & Time Slicing - understanding
+=====================================================
+Programs for Threads understanding and usage- HandsOn
+1. MergeSort
+2. Adder Substractor
+3. Deadlock
+4. Producer Consumer
+5. Semaphores
+6. Synchronization
+7. volatile
+8. Future, Callable, FutureTask, Executor & ExecutorService
+
+
+================== Deadline 
+Multi-Threads - 1 week
+Concurrency - 1 week
+QnA - Interview - 2 days
+Revision - 2to3days 

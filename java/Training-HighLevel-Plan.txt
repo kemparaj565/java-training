@@ -1,0 +1,73 @@
+1. Thread & Concurrency - 21 days
+
+2. Collections - 3 days
+
+3. Generics - 2 days
+
+4. Strings - 1 day
+
+5. OOPS Concepts - 1 day
+
+6. Java 8 - 10 days
+
+7. Latest Release Features - 1 day
+
+8. Design Patterns - 2 days
+
+9. Spring - JDBC,Hibernate & JPA - 3 days
+
+10. Spring Batch - 2 days
+
+11. Spring Integration - 2 days
+
+13. Spring Framework - 5 days
+
+14. MySQL - 2 days
+
+15. MongoDB - 3 days 
+
+16. Kafka - 3 days
+
+17. MicroServices (Event Driven Architecture) - 5 days
+
+18. Docker - 3 days 
+
+-------------------- 69 days till here  
+
+19. AWS, Kubernetes, Containerization 
+
+20. Algos (in our notice period)
+
+
+
+OOPS Concepts
+Java String
+Generics
+Java EE Frameworks - Spring, Hibernate etc.
+
+
+Java 8 ===>
+Stream API
+Lambda Expressions
+
+
+Multithreading
+Exception Handling
+Collections Framework
+
+
+OOPs Concepts ===>
+SOLID: The First 5 Principles of Object Oriented Design 
+association,aggregation,compostions - examples of each
+
+
+Spring Framework==>
+Inversion Of Control, DI
+Bean Lifecycle
+Annotations
+Spring MVC
+Spring Boot
+Spring Cloud
+Spring Security
+Spring Batch
+Spring Integration
